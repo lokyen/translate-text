@@ -1,6 +1,6 @@
 # Translate Text
 
-This project translates any foreign language text into English. It also summarizes the text into easy-to-understand sentences.
+This project translates any foreign language text into English. It also summarizes the text into easy-to-understand sentences. This is not meant to be a replacement for real human translators.
 
 ![Alt text](/project-image.png "Title")
 
